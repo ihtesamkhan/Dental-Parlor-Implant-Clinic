@@ -1,0 +1,7 @@
+{
+  "name": "Dental Parlor & Implant Clinic",
+  "description": "Premium dental care and advanced implant solutions in Islamabad. Experience world-class dentistry with a compassionate touch.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
